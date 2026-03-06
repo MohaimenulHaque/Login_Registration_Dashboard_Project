@@ -1,1 +1,0 @@
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
